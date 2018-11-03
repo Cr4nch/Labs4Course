@@ -94,11 +94,11 @@ public class PrimaryTypesTest{
     }
     
     public void print_boolean(){  
-        System.out.println("______________boolean values_________");
+        System.out.println("______________boolean values__________");
         System.out.printf( "|initialized   boolean= %5b        |\n",initializedBoolean,initializedBoolean);
         System.out.printf( "|uninitialized boolean= %5b        |\n",notInitializedBoolean,notInitializedBoolean);
         System.out.printf( "|calculations  boolean= %5b        |\n",initializedWithCalculationsBoolean,initializedWithCalculationsBoolean);
-        System.out.println("_____________________________________");    
+        System.out.println("______________________________________");    
     }
     
     public void print_char(){  
